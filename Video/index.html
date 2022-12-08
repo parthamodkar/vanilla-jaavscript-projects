@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
+    <!-- styles -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- preloader -->
+    <div class="preloader">
+      <img src="preloader.gif" alt="preloader">
+    </div>
+    <!-- header -->
+    <header>
+      <video class="video-container" controls muted autoplay loop>
+        <source src="video.mp4" type="video/mp4">
+      </video>
+      <h1>Video Project</h1>
+      <!-- button switch -->
+      <button class="switch-btn">
+        <span>play</span>
+        <span>pause</span>
+        <span class="switch"></span>
+      </button>
+    </header>
+    <!-- javascript -->
+    <script src="app.js"></script>
+  </body>
+</html>
