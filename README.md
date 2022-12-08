@@ -1,6 +1,6 @@
 # vanilla-jaavscript-projects
 
-Hi, I have created basic vanilla javascript mini projects to help people learn basic of javascript programming.
+Hi, I have created basic vanilla javascript mini projects to help people learn basics of javascript programming.
 
 Below are the list of projects included.
 1. Color Flipper
@@ -19,4 +19,3 @@ Below are the list of projects included.
 14. Grocery Bud
 15. Slider
 
-If you've any question please reach out to me on parth.amodkar@gmail.com
